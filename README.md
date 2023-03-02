@@ -1,11 +1,11 @@
-<a name="readme-top">My porfolio</a>
+<a name="readme-top">Bootstrap practice</a>
 
 
 <div align="center">
-  <img src="./assets/images/logo/logo4.png" alt="logo" width="300"  height="auto" />
+  <img src="./assets/img/logo/bootstrap.png" alt="logo" width="300"  height="auto" />
   <br/>
 
-  <h3><b>My Portfolio</b></h3>
+  <h3><b>Bootstrap practice</b></h3>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 # 📖 My Portfolio <a name="about-project"></a>
 
-- **Welcome to My Porfolio where you can explore my projects, get to know me, and find a way to contact me. Take a look at my various projects and discover the range of my technical skills. Whether you are interested in web development, software engineering, or data science, you'll find a variety of projects here to pique your interest. So feel free to browse, learn more about me and my work, and get in touch if you have any questions or opportunities to collaborate.**
+- **This is just a project to practice bootstrap**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,6 +48,7 @@
   <ul>
     <li><a href="https://developer.mozilla.org/es/docs/Learn/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+        <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
   </ul>
 </details>
 
@@ -56,9 +57,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **A fully functional contact form.**
-- **Mobile first porfolio.**
-- **Only using semantic HTML.**
+- **It has a contact form**
+- **It has a scrollspy**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://alejandroq12.github.io/portfolio/)
+- [Live Demo Link](https://alejandroq12.github.io/bootstrap-practice/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@ To get a local copy up and running, follow these steps:
 
 In order to run this project you need:
 
-1. A web browser to see the website/porfolio.
+1. A web browser to see the project.
 
 2. And a code editor if you want to edit the code. For example, Vs Code.
 
@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 
 1. Clone it using your terminal:
 ```
-git clone https://github.com/Alejandroq12/portfolio.git
+git clone https://github.com/Alejandroq12/bootstrap-practice.git
 ```
 
 2. If the previous method does not work you may also download the repo as a .zip file and once you decompress the .zip file you are ready to use it.
@@ -114,20 +114,6 @@ Install this project with:
 
 1. To see this project you will not need to install something else.
 
-2. But in case you want to test the linter that I configured to check errors you will have to complete the following steps:
-
-```
-npm init -y
-npm install --save-dev hint@7.x
-```
-
-3. If you run npm install do not forget to create a .gitignore file to prevent the node_modules to be uploaded to GitHub:
-
-```
-.gitignore
-node_modules/
-```
-
 ### Usage
 
 To see this project you will only need to:
@@ -139,7 +125,7 @@ To see this project you will only need to:
 To run tests, run the following command:
 
 ```
-npx hint .
+No test available right now.
 
 ```
 
@@ -172,8 +158,8 @@ You can deploy this project using GitHub pages:
 
 👤 **Juan Sanchez**
 
-- GitHub: [J-C-S-V](https://github.com/J-C-S-V)
-- Twitter: [@juansan0](https://twitter.com/juansan0)
+- GitHub: [Jean Louis](https://github.com/Mukaba)
+- Twitter: [Jean Louis](https://twitter.com/JeanlouisMukaba)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,9 +169,8 @@ You can deploy this project using GitHub pages:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **I will add the desktop version**
-- [ ] **I will add media queries to make it responsive**
-- [ ] **I will use JavaScript to add interactivity**
+- [ ] **I will add the mobile version*
+- [ ] **I will add breakpoints**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,8 +196,8 @@ Thanks in advance.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Wes Bos because I learned how to implement flexbox with his free tutorial:
-- Wes Bos: [Wes Bos](https://flexbox.io/)
+I would like to thank my friend Jean-louis for his support during our pair-programming sessions:
+- Jean-louis: [Jean-louis](https://github.com/Mukaba)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,11 +205,11 @@ I would like to thank Wes Bos because I learned how to implement flexbox with hi
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **Are you goin to use React in the future?**
+- **Are you going to use React in the future?**
 
-  - Yes! I will transform this portfolio into a React App.
+  - Yes! I will transform website into a React App.
 
-- **Did you create this porfolio from scratch?**
+- **Did you create this project from scratch?**
 
   - Yes! From zero, and I will improve it a lot.
 
