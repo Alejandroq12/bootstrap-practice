@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./assets/images/logo/logo4.png" alt="logo" width="300"  height="auto" />
+  <img src="./assets/img/logo/bootstrap.png" alt="logo" width="300"  height="auto" />
   <br/>
 
   <h3><b>Bootstrap practice</b></h3>
